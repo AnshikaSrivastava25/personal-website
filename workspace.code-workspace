@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "..\\Form(2)"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Rock_Paper_Scissor"
+		},
+		{
+			"path": "..\\C++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
